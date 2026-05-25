@@ -9,3 +9,5 @@ Built as a prototype for automated terrain maintenance, the robot operates in a 
 It uses ultrasonic distance sensing to avoid hazards, a relay-switched high-speed cutting motor that includes a forward-motion safety lock, and an independent 12V fluid pump for chemical distribution. 
 
 This project showcases practical applications of embedded systems design, sensor fusion, motor control logic, and power rail management.
+
+For a deep dive into the system architecture, power rail management, and mechanical considerations, please see the attached Technical Report (PDF) included in this repository.
