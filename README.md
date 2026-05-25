@@ -29,4 +29,4 @@ This project goes beyond basic robotics to showcase practical, real-world applic
 
 For a deep dive into the system architecture, power rail schematics, and mechanical design considerations, please refer to our complete Technical Report attached in this repository:
 
-* 📎 **[Technical_Report.pdf](./Technical_Report.pdf)** 
+* 📎 **[Technical Report](https://github.com/devanshudev7/Autonomous-Grass-Cutting-Rover/blob/850ba8cbca28d08eecf3bcbd05fcc4e048bdee91/Technical%20Report.pdf)**
